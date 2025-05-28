@@ -1,6 +1,1 @@
 /*  your css code here. If applicable */
-square.addEventListener('mouseleave', () => {
-        squares.forEach(other => {
-          other.style.backgroundColor = '#E6E6FA'; // Lavender
-        });
-      });
